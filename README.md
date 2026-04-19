@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarwina Muralikrishnan  
 
-<!--
-**SarwinaMuralikrishnan/SarwinaMuralikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 *Turning ideas into real-world applications through code*  
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student  
+💻 Aspiring Software Developer  
+🤖 AI & Data Science Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects  
+
+### 🔹 Petition Response Engine  
+Automates structured responses for public/service petitions using rule-based and AI-assisted processing  
+➡️ Reduced manual response drafting time and improved response consistency  
+
+### 🔹 SimPill – Medicine Reminder System  
+Smart medicine management system with scheduling and reminders  
+➡️ Improved medication adherence through intelligent tracking and notifications  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Languages & Tools:**  
+- HTML, CSS
+- Python (Flask)  
+- SQLite
+- Database Management
+- Git & GitHub  
+
+---
+
+## 🌱 Currently Learning  
+- Artificial Intelligence & Data Science  
+- Full Stack Development
+- Web Development  
+
+---
+
+## 🎯 Career Objective  
+To secure a software development role where I can apply my skills, build impactful solutions, and grow as a technology professional.  
+
+---
+
+## 📫 Connect With Me  
+- GitHub: https://github.com/SarwinaMuralikrishnan  
+
+---
+
+⭐ *Always learning, building, and improving*
